@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "simple-peer": "^9.7.2",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
